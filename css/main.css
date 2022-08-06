@@ -566,17 +566,13 @@ body {
         border-radius: 50%;
     }
 
-
-    .header-container-nav {
-    }
     .header-container-nav-ul {
         display: block;
         margin-top: 10px;
     }
+    
     .header-container-nav-li {
         margin-top: 5px;
-    }
-    .header-container-link {
     }
 
     .header-container-link:hover {
@@ -585,8 +581,5 @@ body {
     
     .header-container-link:active {
         opacity: 0.6;
-    }
-
-    .footer-link {
     }
 }
